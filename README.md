@@ -2,4 +2,5 @@
 
 <img src="https://github.com/CoGn151oN/Math_Game/blob/main/demo.PNG?raw=true" alt="math game demo pic">
 
-This C# WPF based game allows users to play a simple math game of addition and subtraction.
+This C# WPF based game allows users to practice addition and subtraction while keeping track of their score.
+Users have option to restart, save, and load score. They can also change their name.
